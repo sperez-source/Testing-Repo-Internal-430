@@ -1,22 +1,21 @@
-# hecannotafford
+# Borat Quotes
 
-## Borat Quotes
+This file contains some iconic quotes from Borat Sagdiyev.
 
-This file contains some of the most iconic quotes from Borat Sagdiyev, the fictional Kazakh reporter played by Sacha Baron Cohen.
+## Famous Quotes
 
-### Iconic Borat Quotes:
+- "Wawawewa!"
+- "Very nice!"
+- "My wife!"
+- "I like you. I like sex. Is nice."
+- "He cannot afford!"
+- "What is this? A computer? Is nice!"
+- "I am very happy to be here in the United States of America."
 
-- **"Jagshemash!"** - Hello!
-- **"Very nice!"** - Used to express approval or enthusiasm.
-- **"Wawaweewa!"** - Expression of surprise or excitement.
-- **"Not so much."** - To indicate something is not good.
-- **"My wife!"** - Referring to his beloved (and often deceased in the script) wife.
-- **"I like you. I like sex. Is nice."** - Borat's forward approach to social interactions.
-- **"This is nice."** - Simple appreciation for something.
-- **"In my country, it is illegal to be gay."** - Satirical commentary on Kazakhstan.
-- **"Dzienkuye!"** - Thank you!
-- **"He cannot afford."** - Perhaps echoing economic woes or a fitting title for this repo entry.
+## More Borat Wisdom
 
-> 'Borat' is a cultural phenomenon that uses humor to expose prejudices and absurdities.
+Borat often says things like:
 
-*Created with love for comedy.*
+> "In Kazakhstan, we have a saying: 'A man who is not married is like a dog without a bone.'"
+
+*Note: This is a humorous take on Borat's unique English.*
